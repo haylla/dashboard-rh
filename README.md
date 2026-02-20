@@ -58,7 +58,7 @@ Construir um painel interativo para análise de:
 
 ---
 
-Desenvolvido por Haila
+Desenvolvido por Haila Laranjeira
 
 
 
