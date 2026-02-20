@@ -1,4 +1,4 @@
-#Dashboard de RH
+##Dashboard de RH
 
 Dashboard analítico desenvolvido com foco em visualização de indicadores estratégicos de Recursos Humanos.
 
