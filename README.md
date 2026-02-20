@@ -1,22 +1,64 @@
-# Dashboard de RH
+#Dashboard de RH
 
-Dashboard analítico desenvolvido com Next.js, TypeScript e Recharts.
+Dashboard analítico desenvolvido com foco em visualização de indicadores estratégicos de Recursos Humanos.
+
+ **Deploy:** https://vercel.com/hayllas-projects/dashboard-rh/EGjqWXRqctwW3Urtq6on5hqY9how
+
+---
+
+## Objetivo
+
+Construir um painel interativo para análise de:
+
+- Total de colaboradores ativos
+- Média salarial
+- Turnover
+- Distribuição por departamento
+- Evolução de admissões ao longo do tempo
+
+---
+
+## Tecnologias 
+
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Recharts
+- Vercel (Deploy)
+
+---
+
+## Conceitos Aplicados
+
+- Componentização
+- Tipagem forte com TypeScript
+- Manipulação e agrupamento de dados
+- Ordenação cronológica
+- Filtro dinâmico com useState
+- Separação de responsabilidades (data / lógica / visual)
+
+---
 
 ## Funcionalidades
 
-- KPIs dinâmicos (Total de Ativos, Média Salarial, Turnover)
-- Gráfico de colaboradores por departamento
-- Gráfico de admissões por mês (ordenado cronologicamente)
-- Filtro interativo por departamento
-- Layout responsivo com Tailwind CSS
+✔ KPIs dinâmicos  
+✔ Gráfico de colaboradores por departamento  
+✔ Gráfico temporal de admissões  
+✔ Filtro interativo por departamento  
+✔ Layout responsivo  
 
-## Tecnologias
+---
 
-- Next.js
-- TypeScript
-- Recharts
-- Tailwind CSS
+## Próximas Evoluções
 
-## Deploy
+- Filtro por período
+- Dark mode
+- Integração com API real
+- Autenticação
 
-https://vercel.com/hayllas-projects/dashboard-rh/EGjqWXRqctwW3Urtq6on5hqY9how
+---
+
+Desenvolvido por Haila
+
+
+
